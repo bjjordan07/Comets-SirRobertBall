@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> 
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+
+
+        <body xml:lang="eng">
+            <pb n="393"/>
+            <fw><title type="title">Comets-</title>
+                <title type="byline">BY <persName><roleName>Sir</roleName>
+                        <forename>Robert</forename>
+                        <surname>Ball</surname></persName>.</title></fw>
+            <p><cb type="left"/><lb break="yes"/><hi rend="dropCap">L</hi>et us suppose that there
+                    was<lb break="yes"/>no other star in the universe<lb break="yes"/>than our own
+                sun, and let us<lb break="yes"/>further, for the sake of making<lb break="yes"/>the
+                argument clearer, suppose<lb break="yes"/>that the sun was deprived of its<lb
+                    break="yes"/>system of attendant worlds. Next, let some<lb break="yes"/>other
+                object be introduced which we may<lb break="yes"/>suppose to be extremely light,
+                like a wisp of<lb break="yes"/>vapour, and let it be situated at a distance<lb
+                    break="yes"/>from the sun which we may regard as inde<lb break="no"/>finitely
+                great. These two bodies, namely,<lb break="yes"/>the sun and this wisp of vapour,
+                are then<lb break="yes"/>supposed to be abandoned to their mutual<lb break="yes"/>
+                attraction. Each of these objects will pull<lb break="yes"/>the other, and the
+                result of the attraction<lb break="yes"/>between the two bodies will be to make
+                    them<lb break="yes"/>approach each other. As, however, the<lb break="yes"/>mass
+                of the sun is so vast, while the mass<lb break="yes"/>of the wisp is so small, we
+                may fairly<lb break="yes"/>assume that the greater part of this move<lb break="no"
+                />ment will be done by the wisp, while the sun<lb break="yes"/>will remain
+                comparatively at rest. The case<lb break="yes"/>is indeed much of the same in this
+                respect as in<lb break="yes"/>the fall of a stone to the ground. The stone<lb
+                    break="yes"/>goes down to meet the earth, but the earth<lb break="yes"/>at the
+                same time comes up to meet the stone.<lb break="yes"/>As, however, the earth is more
+                massive than<lb break="yes"/>millions of millions of stones, the actual<lb
+                    break="yes"/>movement performed by the earth is in this<lb break="yes"/>case
+                quite unappreciable. We may therefore<lb break="yes"/>say, with truth enough for all
+                    practical<lb break="yes"/>purposes, that it is the stone which does all<lb
+                    break="yes"/>the moving, while the earth remains at rest.<lb break="yes"/></p>
+            <p>In the same manner we may suppose the<lb break="yes"/>sun to be at rest, while the
+                wisp of vapour<lb break="yes"/>is drawn towards it from the depths of space.<lb
+                    break="yes"/>At first, no doubt the motion may be<lb break="yes"/> extremely
+                slow: for the attraction of the<lb break="yes"/>sun decreases with its distance.
+                    Indeed,<lb break="yes"/>the wisp of vapour might be so remote, that<lb
+                    break="yes"/>it would require thousands of years to move<lb break="yes"/>over an
+                inch. But as the motion progresses<lb break="yes"/>the body will gradually acquire
+                speed, until<lb break="yes"/>after the lapse of a time, so long that we shall<lb
+                    break="yes"/>not attempt to express it in figures, the little<lb break="yes"
+                />object will be found hurrying in towards the<lb break="yes"/>sun with the speed of
+                an express train; still<lb break="yes"/>the pace will grow until the approaching<lb
+                    break="yes"/>object will be moving as quickly as a rifle<lb break="yes"/>bullet.
+                The intervening distance is now<lb break="yes"/>rapidly dimishing; but, as that
+                    distance<lb break="yes"/><seg type="volume"><lb break="yes"/>Vol.
+                    xxi.-50.</seg><cb type="right"/><lb break="yes"/>lessens, the intensity of the
+                solar attraction<lb break="yes"/>increases, and, consequently, the pace at<lb
+                    break="yes"/>which the object is urged onwards becomes<lb break="yes"/>greater
+                and greater. From moving at the<lb break="yes"/>rate of a mile in a second, the
+                little object<lb break="yes"/>would gradually attain a speed not less<lb break="yes"
+                />than that of the earth in its orbit, namely,<lb break="yes"/>about eighteen miles
+                a second. Still<lb break="yes"/>the body presses onwards, until a pace could<lb
+                    break="yes"/>be reached of 100 or 200 miles a second.<lb break="yes"/>Finally,
+                when the vapour would be about to<lb break="yes"/>make the terrific plunge into the
+                glowing sun,<lb break="yes"/>its speed would be upwards of 400 miles a<lb
+                    break="yes"/>second. The vastness of this speed may<lb break="yes"/>be realized
+                from the fact that a body<lb break="yes"/>animated by so great a velocity would<lb
+                    break="yes"/>accomplish a complete circuit of the earth<lb break="yes"/> in
+                about a minute.</p>
+            <p><lb break="yes"/>The case which I have supposed is, how<lb break="no"/>ever, not
+                exactly that of a comet. The<lb break="yes"/>movement would hardly take place in
+                    the<lb break="yes"/>way just described, in which the sun and<lb break="yes"/>the
+                wisp of vapour were both orginally<lb break="yes"/>at rest. Such a state of things
+                could hardly<lb break="yes"/>be possible in Nature. We may, no doubt,<lb break="yes"
+                />suppose the sun to have been at rest, for it<lb break="yes"/><damage type="splitI"
+                    >is</damage> only the relative movements of the two<lb break="yes"/>bodies which
+                concern us. But we can hardly<lb break="yes"/>imagine that the wisp of vapour could
+                    have<lb break="yes"/>been so delicately placed as to have had<lb break="yes"
+                />absolutely no motion whatever, except, in<lb break="no"/>deed, in the <damage
+                    type="stain">direct</damage> line towards the sun. If,<lb break="yes"/>at the
+                    <damage type="stain">moment</damage> of starting, the object pos<lb break="no"
+                />essed a movement which would carry it in<lb break="yes"/>the course of time out of
+                the direct line<lb break="yes"/>to the sun, then a totally different condition<lb
+                    break="yes"/>of motion would be the result.</p>
+            <p><lb break="yes"/>All the time that the sun was drawing this<lb break="yes"/>wisp of
+                vapour towards it, the transverse move<lb break="no"/>ment would be gradually moving
+                the wisp<lb break="yes"/>out of the direct line. Now, though the<lb break="yes"
+                />speed of that movement may be very small,<lb break="yes"/>yet in the lapse of
+                those millions of<lb break="yes"/>years that are required to draw the body into
+                    the<lb break="yes"/>sun, this transverse movement will have<lb break="yes"
+                />increased to such an extent that the object<lb break="yes"/>will the miss the sun
+                instead of hitting it. In<lb break="yes"/>fact, after its stupendous voyage from
+                    the<lb break="yes"/>indefinitely remote depths of space, during<lb break="yes"
+                />which it has acquired its vast speed of scores<lb break="yes"/>or hundreds of
+                miles a second, the comet will<lb break="yes"/>be found not plunging into the sun,
+                    but<pb n="394"/><lb break="yes"/><fw>394<space/>THE STRAND MAGAZINE.</fw>
+                <cb type="left"/><lb break="yes"/>passing to one side of it. While the two<lb
+                    break="yes"/>objects are in such close proximity their<lb break="yes"/>mutual
+                attraction is, of course, of tremendous<lb break="yes"/>vehemence. In virtue of this
+                attraction, the<lb break="yes"/>rapidly moving comet is whirled round the<lb
+                    break="yes"/>sun, and consequently begins to retreat again<lb break="yes"
+                />towards the same side from which it has<lb break="yes"/>come. In this majestic
+                sweep the comet<lb break="yes"/>describes a graceful curve. Coming in from<lb
+                    break="yes"/>infinity it approaches the sun, wheels round<lb break="yes"/>the
+                sun, and then again retires to the depths<lb break="yes"/>of space.</p>
+            <p><lb break="yes"/>As the comet has swept in towards the<lb break="yes"/>sun, in
+                consequence of the attraction<lb break="yes"/>of that body, it may seem difficult to
+                    understand<lb break="yes"/>why it should then retreat outwards again,<lb
+                    break="yes"/>notwithstanding the attraction which now<lb break="yes"/>seeks to
+                draw it back. This may, however,<lb break="yes"/>be illustrated by a very simple
+                    contrivance.<lb break="yes"/>Let a weight be hung from the ceiling by a<lb
+                    break="yes"/>string. Let that weight be drawn to aside and<lb break="yes"/>then
+                released. It will, of course, swing down<lb break="yes"/>to the lowest point, and
+                then, having passed<lb break="yes"/>through the lowest point, the weight will<lb
+                    break="yes"/>begin to ascend. The attraction of the earth<lb break="yes"/>pulls
+                the body down, but as it descends it<lb break="yes"/>acquires speed, and in virtue
+                of this speed<lb break="yes"/>it is enabled to pass the lowest point and to<lb
+                    break="yes"/>ascend in opposition to gravity on the other<lb break="yes"/>side.
+                In the same way, the speed acquired<lb break="yes"/>by the comet in its long voyage
+                towards the<lb break="yes"/>sun from the depths of space enables it to<lb
+                    break="yes"/>sweep round the sun without being captured,<lb break="yes"/>and
+                then to pass away, perhaps, never more<lb break="yes"/>to return. The nearer the
+                comet is to the<lb break="yes"/>solar surface the greater is the speed with<lb
+                    break="yes"/>which it moves, and consequently the more<lb break="yes"/>brief is
+                its sojourn in the <damage type="stain">vicinity</damage> of the sun.<lb break="yes"
+                />A comet has, in fact, been known to graze the<lb break="yes"/>sun so closely that
+                    <damage type="stain">it</damage> passed within one-<lb break="no"/>seventh part
+                of the sun's radius. In this<lb break="yes"/>case a period of two hours sufficed for
+                    the<lb break="yes"/>comet to completely turn round the sun<lb break="yes"/>and
+                commence its retreat into space.</p>
+            <p><lb break="yes"/>The actual circumstances presented in<lb break="yes"/>Nature are not
+                quite so simple. We have<lb break="yes"/>assumed that the sun and the comet were<lb
+                    break="yes"/>the solitary objects in the universe. Of<lb break="yes"/>course,
+                this condition is not fulfilled. There<lb break="yes"/>are the planets surrounding
+                the sun, and<lb break="yes"/>then there are the countless hosts of stars. Some<lb
+                    break="yes"/>of these objects may attract the comet with<lb break="yes"/>a
+                vigour sufficient to sway it considerably<lb break="yes"/>from the track which it
+                would otherwise<lb break="yes"/>follow. In consequence of these various<lb
+                    break="yes"/>forces we are not justified in discussing the<lb break="yes"
+                />problem actually presented in Nature as<lb break="yes"/>being exactly the same as
+                that in the case<lb break="yes"/>hitherto supposed. But our illustrations will,<cb
+                    type="right"/><lb break="yes"/>at all events, suffice to give a general idea
+                    of<lb break="yes"/>what actually happens. The comets are<lb break="yes"/>drawn
+                in from the depths of space, they<lb break="yes"/>approach the sun, they sweep round
+                the sun,<lb break="yes"/>and they then retreat again to the abyss from<lb
+                    break="yes"/>which they have come. The laws of mathe<lb break="no"/>matics
+                assure us that it is quite possible for<lb break="yes"/>an object, after journeying
+                from an immeasur<lb break="no"/>ably great distance for an immeasurably long<lb
+                    break="yes"/>time, to enter our system, to wheel round the<lb break="yes"/>sun,
+                and then again retreat to commence an<lb break="yes"/>infinite voyage which should
+                last for all<lb break="yes"/>eternity. It is perfectly certain that this <damage
+                    type="cutoffD">kind</damage><lb break="yes"/>of motion, which we know to be
+                    possible<lb break="yes"/>does closely resemble that actually <damage
+                    type="cutoffD">performed</damage><lb break="yes"/>by many of the comets. These
+                bodies enter<lb break="yes"/>our system, they come into the vicinity of the<lb
+                    break="yes"/>earth, and, under these circumstances, they<lb break="yes"/>are
+                accessible to our observation. As they<lb break="yes"/>retreat into space they
+                gradually withdraw<lb break="yes"/>from our view. Many of the comets which<lb
+                    break="yes"/>come to visit us appear to be objects which<lb break="yes"/>have
+                never been within the ken of the earth<lb break="yes"/>before, and which will never
+                be within the<lb break="yes"/>ken of the earth again.</p>
+            <p><lb break="yes"/>There are, however, a few of these bodies<lb break="yes"/>which
+                describe orbits of a different kind.<lb break="yes"/>They move round in elliptic or
+                oval paths,<lb break="yes"/>so that their visits to our vicinity and their<lb
+                    break="yes"/>consequent visibility to the inhabitants of<lb break="yes"/>the
+                earth recur with more or less regularity.<lb break="yes"/>Of such a nature is that
+                most famous of all<lb break="yes"/>comets, which bears the name of the
+                    illustrious<lb break="yes"/>astronomer <persName ref="#Halley"
+                >Halley</persName>. This splendid object<lb break="yes"/>accomplishes a complete
+                circuit around the<lb break="yes"/>sun every seventy-five years. It will again<lb
+                    break="yes"/>display its splendours for terrestrial admira<lb break="no"/>tion
+                about the year 1910.</p>
+            <p><lb break="yes"/>Our knowledge of comets has been greatly<lb break="yes"/>extended in
+                the last few years by the applica<lb break="no"/>tion of photographic methods to the
+                    investi<lb break="no"/>gation of the heavens. Indeed, we are<lb break="yes"
+                />evidently now entering upon a new phase in<lb break="yes"/>the history of these
+                    mysterious<lb break="yes"/>objects. The advantages of photography for<lb
+                    break="yes"/>such inquiries are obvious. In the first<lb break="yes"/>place, the
+                plates present to us pictures of<lb break="yes"/>absolute accuracy. This is a matter
+                    of<lb break="yes"/>special importance in this research, because<lb break="yes"
+                />the appearance of comets changes so in<lb break="no"/>cessantly, that unless the
+                portrait of the<lb break="yes"/>comet obtained on any particular<lb break="yes"
+                    />occasion<lb break="yes"/>be absolutely faithful, it is impossible to<lb
+                    break="yes"/>correct it on any subsequent occasion. Not<lb break="yes"/>only
+                from week to week does the comet alter<lb break="yes"/>its appearance, but it
+                changes even from day<lb break="yes"/>to day. It is, therefore, of the utmost im<lb
+                    break="no"/>portance to obtain views of the body which<lb break="yes"/>shall be
+                of unquestioned accuracy so far as<pb n="395"/><damage type="pencilMark"/><lb
+                    break="yes"/><fw>COMETS.<space/>395</fw>
+                <cb type="left"/><lb break="yes"/>the aspect of the body is concerned at that<lb
+                    break="yes"/>particular moment. There is also another<lb break="yes"/>reason why
+                photographic pictures of comets<lb break="yes"/>are particularly instructive. It is
+                a pecu<lb break="no"/>liarity of the sensitive plate that it is able to<lb
+                    break="yes"/>perceive and record luminous expressions<lb break="yes"/>quite too
+                faint to produce any impression on<lb break="yes"/>the eye.</p>
+            <p><lb break="yes"/>When we examine the photograph of a<lb break="yes"/>comet, we thus
+                often find on it many details<lb break="yes"/>which were quite unseen by the
+                observer, no<lb break="yes"/>matter how acute his vision may have been,<lb
+                    break="yes"/>and no matter how powerful may be the<lb break="yes"/>telescope
+                which he as been employing. It<lb break="yes"/>is, indeed, sometimes found that the
+                tail of<lb break="yes"/>the comet, as it is depicted on the plates, is<lb
+                    break="yes"/>three times as extensive as the tail of the<lb break="yes"/>same
+                body as it is displayed through a telescope.</p>
+            <p><lb break="yes"/>An interesting comet, which has afforded<lb break="yes"/>much
+                occupation to the photographer, was<lb break="yes"/>discovered on <date
+                    when="1893-07-08">July 8th, 1893</date>, by <persName ref="#Rordame"
+                        ><roleName>Mr.</roleName>
+                    <forename>Alfred</forename><lb break="yes"
+                    /><surname>Rordame</surname></persName>, an astronomer residing in <placeName
+                    ref="#SaltLakeCity">Salt<lb break="yes"/>Lake City</placeName>. <persName
+                    ref="#Hussey"><roleName>Mr.</roleName> W.J. <surname>Hussey</surname></persName>
+                    obtained<lb break="yes"/>some admirable photographs of this object<lb
+                    break="yes"/>at the <placeName ref="#LickObservatory">Lick Obser<lb break="no"
+                    />vatory</placeName>, and we are<lb break="yes"/>also indebted to the<lb
+                    break="yes"/>same astronomer<lb break="yes"/>for a very interest<lb break="no"
+                />ing account of the<lb break="yes"/>physical charac<lb break="no"/>teristics of
+                this <lb break="yes"/>body.</p>
+            <p><lb break="yes"/>On looking at the<lb break="yes"/>photograph of the<lb break="yes"
+                />comet Rordame, on<lb break="yes"/>the 12th of July,<lb break="yes"/>and comparing
+                    it<lb break="yes"/>to with that shown on<lb break="yes"/>the next page, taken<lb
+                    break="yes"/>on the following<lb break="yes"/>night, the observer<lb break="yes"
+                />will be astonished<lb break="yes"/>at the difference in<lb break="yes"/>the
+                structure of the<lb break="yes"/>two tails. It would<lb break="yes"/>seem as if
+                    some<lb break="yes"/>violent dislocation<lb break="yes"/>of the material of<lb
+                    break="yes"/>the tail must have<lb break="yes"/>taken place in the<lb
+                    break="yes"/>interval which has<lb break="yes"/>elapsed between the<lb
+                    break="yes"/>times when the two<lb break="yes"/>pictures were taken.<lb
+                    break="yes"/>There is no doubt<lb break="yes"/>that visual obser<lb break="no"
+                />vations would never<cb type="right"/><lb break="yes"/>have established this point
+                so clearly as the<lb break="yes"/>photographs have done.</p>
+            <p><lb break="yes"/>It will be noticed that the plates are marked over<lb break="yes"
+                />by numbers of bright streaks: these<lb break="yes"/>are the photographs of the
+                stars which<lb break="yes"/>happened to lie in the same field of view as<lb
+                    break="yes"/>the comet. But it may well be asked how it<lb break="yes"/>has come
+                to pass that the stars are represented<lb break="yes"/>by streaks instead of the
+                round images which<lb break="yes"/>we should expect from their sun-like
+                    character.<lb break="yes"/>The explanation of this circumstance is not a<lb
+                    break="yes"/>little curious and instructive. The comet is<lb break="yes"/>in
+                motion, and in moves so rapidly that in the<lb break="yes"/>course of such a
+                protracted exposure as that<lb break="yes"/>on <date when="1893-07-12">July
+                    12th</date>, which lasted for one hour and<lb break="yes"/>twelve minutes, the
+                comet changes its position<lb break="yes"/>in the sky through a distance which is
+                    quite<lb break="yes"/>apparent. If the camera had been directed<lb break="yes"
+                />throughout the exposure to the same part of<lb break="yes"/>the heavens, the
+                comet, like the unquiet<lb break="yes"/>sitter, would only have permitted us to
+                obtain a<lb break="yes"/>very blurred and indistinct portrait. To<lb break="yes"
+                />obviate the effects of this motion it was<lb break="yes"/>therefore necessary for
+                the astronomer<lb break="yes"/>who was engaged in taking the picture to<pb n="396"
+                    /><lb break="yes"/><fw>396<space/>THE STRAND MAGAZINE.</fw>
+                <cb type="left"/><lb break="yes"/>shift the camera slowly during the course of<lb
+                    break="yes"/>the exposure, and in that way to neutralize<lb break="yes"/>the
+                influence of the comet's motion. The<lb break="yes"/>picture is thus made to
+                represent the comet<lb break="yes"/>as if that body had remained at rest during<lb
+                    break="yes"/>the exposure. But the stars which were<lb break="yes"/>strewn over
+                the background remained quiet<lb break="yes"/>all the time; as, however, the camera
+                    was<lb break="yes"/>shifted, for the reason just mentioned, it<lb break="yes"
+                />follows that each of the stars, instead of<lb break="yes"/>being represented by a
+                point, as it would<lb break="yes"/>have been in an ordinary sidereal picture, is<lb
+                    break="yes"/>manifested in this plate by a streak.</p>
+            <p><cb type="right"/><lb break="yes"/>Such streaks, if<lb break="yes"/>useless as
+                    stellar<lb break="yes"/>pictures, are, never<lb break="no"/>theless, very in<lb
+                    break="no"/>structive. They<lb break="yes"/>reveal to us the<lb break="yes"/>
+                nature and the<lb break="yes"/>extent of the move<lb break="no"/>ment of the
+                    comet<lb break="yes"/>during the period<lb break="yes"/>which the exposure<lb
+                    break="yes"/>has lasted. The<lb break="yes"/>length of the streak<lb break="yes"
+                />expresses the appa<lb break="no"/>rent distance<lb break="yes"/>through which
+                    the<lb break="yes"/>comet has moved,<lb break="yes"/>while the direction<lb
+                    break="yes"/>of the streak indi<lb break="no"/>cates the direction<lb
+                    break="yes"/>in which the comet<lb break="yes"/>is moving. At first<lb
+                    break="yes"/>sight this latter<lb break="yes"/>circumstance may<lb break="yes"
+                />appear somewhat<lb break="yes"/>puzzling. We are<lb break="yes"/>accustomed to
+                    see<lb break="yes"/>a shower of sparks<lb break="yes"/>extending out be<lb
+                    break="no"/>hind a sky-rocket,<lb break="yes"/>and this tail to the<lb
+                    break="yes"/>rocket follows<lb break="yes"/>generally the track<lb break="yes"
+                />along which the<lb break="yes"/>rocket has itself<lb break="yes"/>advanced. But
+                    the<lb break="yes"/>tail of a comet<lb break="yes"/>bears a relation to<lb
+                    break="yes"/>the comet very<lb break="yes"/>different from that<lb break="yes"
+                />which the stream<lb break="yes"/>of sparks behind a<lb break="yes"/>rocket bears
+                to the<lb break="yes"/>rocket itself. The<lb break="yes"/>position of the<lb
+                    break="yes"/>comet's tail is<lb break="yes"/>governed by the remarkable law that
+                it must<lb break="yes"/>be turned away from the sun. In fact, it<lb break="yes"
+                />would generally be found that a line drawn<lb break="yes"/>through the comet from
+                the tail to the head<lb break="yes"/>would, when continued around the heavens,<lb
+                    break="yes"/>point to the sun.</p>
+            <p><lb break="yes"/>In the present case it is plain, from the<lb break="yes"/>position
+                of the star tracks, that the motion of<lb break="yes"/>the comet happens to be
+                almost perpendicular<lb break="yes"/>to the direction of its tail. Considering
+                    the<lb break="yes"/>very flimsy character of the tail of a comet,<lb break="yes"
+                />it may seem rather surprising that this<lb break="yes"/>structure should not be
+                swept backwards so<pb n="397"/><lb break="yes"/><fw>COMETS.<space/>397</fw>
+                <cb type="left"/><lb break="yes"/>as to stream out along the comet's track.<lb
+                    break="yes"/>Espcially is this the case when we think of<lb break="yes"/>the
+                enormous velocity at which the object is<lb break="yes"/>moving. It must, however,
+                be remembered<lb break="yes"/>that no atmosphere exists in the open space<lb
+                    break="yes"/>through which the comet wings its flight.<lb break="yes"/>There
+                would be no other medium to offer<lb break="yes"/>any resistance to the flight of
+                the tail, and<lb break="yes"/>therefore there is no difficulty in explaining<lb
+                    break="yes"/>how the object moves sideways through space<lb break="yes"/>as the
+                photographs show it actually does.</p>
+            <p><lb break="yes"/>The photographs of <persName ref="#Gale"
+                    ><surname>Gale</surname>'s</persName> comet shows<lb break="yes"/>the rapid
+                motion of that body in a very<lb break="yes"/>instructive manner. The lengths of the
+                    star<lb break="yes"/>tracks, of course, exhibit the distance through<lb
+                    break="yes"/>which the comet has moved in the course of<lb break="yes"/>a little
+                more than two hours, which was the<lb break="yes"/>duration of the exposure.</p>
+            <p><lb break="yes"/>There is another very interesting circum<lb break="no"/>stance
+                brought out by these photographs of<lb break="yes"/>the stars, when we remember that
+                they form<lb break="yes"/>a background with respect to the comet. It<lb break="yes"
+                />will be observed that many of the stellar<lb break="yes"/>streaks are visible
+                right through the tail. To<lb break="yes"/>appreciate all that this implies we
+                should note<lb break="yes"/>that most of the stars here concerned are in<lb
+                    break="yes"/>truth very faint objects. They would, under<lb break="yes"/>any
+                circumstances, be quite invisible to the<lb break="yes"/>unaided eye. Yet they are
+                nevertheless dis<lb break="no"/>tinctly seen, notwithstanding the interposition<lb
+                    break="yes"/>of this stupendous volume of cometary matter.<lb break="yes"/>Here,
+                then, we see that stars, even though they<lb break="yes"/>be faint stars, can
+                nevertheless be discerned<cb type="right"/><lb break="yes"/>through a thickness of
+                hundreds of thousands<lb break="yes"/>of miles, of the material which forms the<lb
+                    break="yes"/>substance of the tail of the comet. This<lb break="yes"/>enormously
+                thick curtain is quite unavailing<lb break="yes"/>for the purpose of hiding the
+                stars. Yet the<lb break="yes"/>light from those stars is so feeble that the<lb
+                    break="yes"/>slightest film of haze on a summer sky would<lb break="yes"
+                />suffice to extinguish them. This circum<lb break="no"/>stance shows, in a very
+                striking manner,<lb break="yes"/>how insignificant must be the quantity of<lb
+                    break="yes"/>material which is contained in a comet.<lb break="yes"/>We can
+                admit this without, perhaps, going<lb break="yes"/>quite so far as to agree with
+                those who assert<lb break="yes"/>that the tail of a notable comet may, never<lb
+                    break="no"/>theless, contain no greater quantity of solid<lb break="yes"
+                />material than<lb break="yes"/>could be packed<lb break="yes"/>into a portman<lb
+                    break="no"/>teau. </p>
+            <p><lb break="yes"/>The comet dis<lb break="no"/>covered by <persName ref="#Swift"
+                    >Swift</persName><lb break="yes"/>in <date when="1892">1892</date> is a very<lb
+                    break="yes"/>interesting and<lb break="yes"/>instructive object.<lb break="yes"
+                />The picture shown<lb break="yes"/>on the next page<lb break="yes"/>was taken by
+                    Pro<lb break="no"/>fessor <persName ref="#Barnard">E. E. <surname>Bar<lb
+                            break="no"/>nard</surname></persName>, at the <placeName
+                    ref="#LickObservatory">Lick<lb break="yes"/>Observatory</placeName>, on<lb
+                    break="yes"/><date when="1892-04-07">7th April, 1892</date>.<lb break="yes"
+                />This comet pos<lb break="no"/>esses a feature<lb break="yes"/>which may be said<lb
+                    break="yes"/>to be without a<lb break="yes"/>parallel in the<lb break="yes"
+                />photographs of<lb break="yes"/>any other similar<lb break="yes"/>object. It
+                    displays<lb break="yes"/>the actual forma<lb break="no"/>tion of a second<lb
+                    break="yes"/>comet as a part of the first. It can hardy be<lb break="yes"
+                />doubted that this second comet is destined<lb break="yes"/>to assume an
+                independent existence. Astro<lb break="no"/>nomers had already known, in the case
+                    of<lb break="yes"/><persName ref="#Biela">Biela</persName>'s comet, that one of
+                these objects<lb break="yes"/>divided into two. Here the operation of<lb break="yes"
+                />division may actually be witnessed.</p>
+            <p><lb break="yes"/>The remarkable movements of all comets,<lb break="yes"/>and the
+                brilliant appearance which many of<lb break="yes"/>these objects display, make every
+                    circum<lb break="no"/>stance with regard to them of much interest.<lb
+                    break="yes"/>It will, therefore, not be a matter of suprise<lb break="yes"/>to
+                learn that the spectroscopic methods of<lb break="yes"/>research, which have already
+                taught us so<lb break="yes"/>much with regard to the sun and the stars,<lb
+                    break="yes"/>have been appplied to the examination of<lb break="yes"/>comets.
+                The results are very instructive, and<lb break="yes"/>we here give some account of
+                them.</p>
+            <pb n="398"/>
+            <lb break="yes"/>
+            <fw>398<space/>THE STRAND MAGAZINE.</fw>
+            <p><cb type="left"/><lb break="yes"/>We must first explain that the are two<lb
+                    break="yes"/>totally different ways in which a body may be<lb break="yes"
+                />rendered visible. In the first case, it may<lb break="yes"/>shine by its own
+                light; in the second case,<lb break="yes"/>it may simply show the light reflected
+                    from<lb break="yes"/>some other luminous body. The illumation<lb break="yes"
+                />dispensed by a sun or a star is of the first<lb break="yes"/>kind; that shed by
+                the earth or any other<lb break="yes"/>planet is of the second kind. The first<lb
+                    break="yes"/>question which we have to ask with regard to<lb break="yes"/>the
+                light received from a comet may be thus<lb break="yes"/>stated. Is this light due to
+                some cause of<lb break="yes"/>luminosity in the comet itself, or is it merely<lb
+                    break="yes"/>sunlight reflected from the comet as from a planet?</p>
+            <p><lb break="yes"/>If we had been restricted to the use of<lb break="yes"/>telescopes,
+                however powerful, it would hardly<lb break="yes"/>have been possible for us to have
+                solved this<lb break="yes"/>problem. The spectroscope has, however,<lb break="yes"
+                />the power of disentangling the component<lb break="yes"/>rays in a beam of light,
+                and thus indicating<lb break="yes"/>their character in such a way as enables us<lb
+                    break="yes"/>to learn what the source of the light may<lb break="yes"/>have
+                been. We thus find that the light<lb break="yes"/>emitted form a comet is, generally
+                    speaking,<lb break="yes"/>of a two-fold character. Part of it is un<cb
+                    type="right"/><lb break="no"/>doubtedly reflected sunlight.<lb break="yes"/>This
+                is demonstrated by<lb break="yes"/>observations with the spec<lb break="no"
+                />troscope, which show that<lb break="yes"/>part of the radiation from a<lb
+                    break="yes"/>comet exhibits a continuous<lb break="yes"/>spectrum, marked by
+                    pre<lb break="no"/>cisely those lines and groups<lb break="yes"/>of lines which
+                are distinctly<lb break="yes"/>characteristic of sunlight.<lb break="yes"/>The
+                evidence on this point<lb break="yes"/>is quite convincing. We<lb break="yes"
+                />should, indeed, have been<lb break="yes"/>greatly surprised had it been<lb
+                    break="yes"/>otherwise; for when the<lb break="yes"/>comet adventures so near<lb
+                    break="yes"/>the sun as it does in the<lb break="yes"/>course of its wanderings
+                    it<lb break="yes"/>must be brilliantly lighted<lb break="yes"/>up by the great
+                    luminary,<lb break="yes"/>and, of course, some por<lb break="no"/>tion of the
+                splendour thus<lb break="yes"/>produced is naturally re<lb break="no"/>flected to
+                us.</p>
+            <p><lb break="yes"/>But besides the bright<lb break="no"/>ness which comets possess<lb
+                    break="yes"/>in virtue of the sunlight<lb break="yes"/>which they receive, it
+                    is<lb break="yes"/>quite certain that they are<lb break="yes"/>also to be
+                regarded as being<lb break="yes"/>in a certain sense light<lb break="yes"
+                />generators themselves. In<lb break="yes"/>this respect the comet is at<lb
+                    break="yes"/>once perceived to be a body of a totally<lb break="yes"/>different
+                character from a planet. The<lb break="yes"/>splendour of Venus is due simply to
+                    the<lb break="yes"/>sunlight which falls upon it. Nor does the<lb break="yes"
+                />great Jupiter himself emit any rays beyond<lb break="yes"/>those which he
+                imperfectly reflects from the<lb break="yes"/>sun. The comet is, however, of a
+                    very<lb break="yes"/>different nature from the more robust planets.<lb
+                    break="yes"/>Part of the light which the comet transmits<lb break="yes"/>is
+                unquestionably due to incandescense in<lb break="yes"/>the body itself. If the sun
+                were to be<lb break="yes"/>suddenly deprived of light-giving power<lb break="yes"
+                />while we were surveying the heavens con<lb break="no"/>taining the moon and a
+                planet and a bright<lb break="yes"/>comet, then the moon and the planet would<lb
+                    break="yes"/>instantly disappear from view; but the<lb break="yes"/>comet might
+                still shine on. No doubt it<lb break="yes"/>would lose some of its brightness,
+                    and<lb break="yes"/>probably the tail would be to a great extent<lb break="yes"
+                />shorn of its original proportions. There<lb break="yes"/>would, however, be a
+                certain amount of<lb break="yes"/>cometary light independent of the sun
+                    <damage>still</damage><lb break="yes"/>forthcoming, so that extinction would
+                    not<lb break="yes"/>necessarily overtake the comet as it<lb break="yes"
+                />certainly would the moon and the planets.</p>
+            <p><lb break="yes"/>The spectroscope not only tells us of the<lb break="yes"/><pb
+                    n="399"/><fw>COMETS.<space/>399</fw><cb type="left"/><lb break="yes"/>existence
+                of light intrinsic to the comet, but<lb break="yes"/>its evidence goes much further;
+                it informs<lb break="yes"/>us actually as to what the very elements must<lb
+                    break="yes"/>be to whose presence in the comet the light<lb break="yes"/>owes
+                its origin. We here note the peculiar<lb break="yes"/>advantage of the spectroscopic
+                methods of<lb break="yes"/>research. They detect special differences in<lb
+                    break="yes"/>the <damage>rays</damage> of light, thus often enabling us to<lb
+                    break="yes"/>trace each different type of light to its source.</p>
+            <p><lb break="yes"/>The first notable achievement in the<lb break="yes"/>determination
+                of the peculiar character of<lb break="yes"/>the radiation from a comet was made
+                    by<lb break="yes"/><persName ref="#Huggins"><roleName>Dr</roleName>.
+                        <surname>Huggins</surname></persName> in <date when="1868">1868</date>. He
+                showed that<lb break="yes"/>some of the rays of a comet which appeared<lb
+                    break="yes"/>that year were indicative of the presence of<lb break="yes"/>the
+                element carbon in the body of the object.<lb break="yes"/>In the case of this
+                particular element the<lb break="yes"/>available information carried us somewhat<lb
+                    break="yes"/>further than is often the case. Not only was<lb break="yes"/>the
+                existence of the element demonstrated, but<lb break="yes"/>the particular chemical
+                combination in which<lb break="yes"/>that element appeared was disclosed. By its<lb
+                    break="yes"/>union with hydrogen, carbon gives rise to<lb break="yes"/>an
+                important series of compounds. The<lb break="yes"/>substances thus produced are very
+                    familiar.<lb break="yes"/>It need only be mentioned that the common<lb
+                    break="yes"/>petroleum, which we use in our lamps, is a<lb break="yes"
+                />combination of carbon and hydrogen! The<lb break="yes"/>spectrum of a
+                hydro-carbon, as one of these<lb break="yes"/>compounds is termed, is of such a
+                    charac<lb break="no"/>teristic nature that it can be used as a<lb break="yes"
+                />test to show whether the hydro-carbon<lb break="yes"/>itself is present. <persName
+                    ref="#Huggins"><roleName>Dr</roleName>. <surname>Huggins</surname></persName>
+                compared the<lb break="yes"/>spectrum of the comet now referred to with<lb
+                    break="yes"/>the spectrum of these hydro-carbons. The<lb break="yes"/>identity
+                between the two spectra was noted,<lb break="yes"/>and thus a splendid addition was
+                a once<lb break="yes"/>made to our knowledge. Subsequent research<lb break="yes"
+                />has confirmed the important discovery that<lb break="yes"/>hydro-carbons are
+                characteristic components<lb break="yes"/>of many comets.</p>
+            <p><lb break="yes"/>For many years no further important<lb break="yes"/>addition was
+                made to our knowledge of the<lb break="yes"/>elementary substances present in
+                    these<lb break="yes"/>wandering bodies. The light they dispensed<lb break="yes"
+                />appeared to be partly the reflected light from<lb break="yes"/>the sun, and partly
+                the light due to incan<lb break="no"/>descent hydro-carbons. But in <date
+                    when="1882">1882</date> a great<lb break="yes"/>advance was made. A comet was
+                    discovered<lb break="yes"/>that year in <placeName ref="#Albany"
+                    >Albany</placeName>, by <persName ref="#Wells"><roleName>Mr</roleName>.
+                        <surname>Wells</surname></persName>. At first,<lb break="yes"/>this body
+                showed the bright continuos<lb break="yes"/>spectrum due to reflected sunlight,<lb
+                    break="yes"/>while the indications of the presence of hydro-carbon<cb
+                    type="right"/><lb break="yes"/>were mainly confined to the neighborhood<lb
+                    break="yes"/>of the nucleus. After this interesting<lb break="yes"/>object had
+                adorned the heavens for a<lb break="yes"/>couple of months <persName ref="Copeland"
+                        ><roleName>Dr</roleName>. <surname>Copeland</surname></persName>, now the<lb
+                    break="yes"/>distinguished <roleName>Astronomer-Royal</roleName> of <placeName
+                    ref="#Scotland">Scotland</placeName>,<lb break="yes"/>discovered a bright yellow
+                line in the spectrum<lb break="yes"/>indicating the presence of sodium. This<lb
+                    break="yes"/>observation was of particular importance,<lb break="yes"/>inasmuch
+                as it afforded at once direct<lb break="yes"/>evidence of the presence in these
+                    celestial<lb break="yes"/>wanderers of another element specially re<lb
+                    break="no"/>markable in its terrestrial relations. An<lb break="yes"/>emphatic
+                confirmation of <persName ref="#Copeland">Copeland</persName>'s dis<lb break="no"
+                />covery was presently forthcoming. It is well<lb break="yes"/>known that the bright
+                yellow line indicative<lb break="yes"/>of the presence of sodium is seen to be<lb
+                    break="yes"/>double when examined under suitable cir<lb break="no"/>cumstances.
+                As the comet appraoched the<lb break="yes"/>sun the characteristic sodium light
+                    became<lb break="yes"/>quite strong. The nucleus glared with the<lb break="yes"
+                />distinct yellow hue belonging to this element;<lb break="yes"/>and, indeed, by
+                filtering away all other light<lb break="yes"/>in a process with which a
+                spectroscopist is<lb break="yes"/>familiar, an outline of the head of the comet<lb
+                    break="yes"/>was obtained which was produced by sodium<lb break="yes"/>light
+                alone.</p>
+            <p><lb break="yes"/>To <persName ref="Copeland"><roleName>Dr</roleName>.
+                        <surname>Copeland</surname></persName> and <persName ref="#Lohse"
+                        ><roleName>Dr</roleName>. <surname>Lohse</surname></persName> at <placeName
+                    ref="CrawfordsObservatory">the <persName ref="EarlCrawford"><lb break="yes"
+                        />Earl of Crawford</persName>'s observatory in <placeName ref="Dunecht"
+                        >Dunecht</placeName></placeName><lb break="yes"/>we are also indebted for
+                yet one more im<lb break="no"/>portant addition to our knowledge of the com<lb
+                    break="no"/>position of these bodies. In the <date when="1882-09">autumn of<lb
+                        break="yes"/>1882</date> we were visited by another comet, which<lb
+                    break="yes"/>must rank as one of the most famous of these<lb break="yes"
+                />objects which have appeared during this<lb break="yes"/>century. On the <date
+                    when="1882-09-18">18th September, 1882</date>, the<lb break="yes"/>two
+                astronomers I have named observed in<lb break="yes"/>the spectrum of this comet, not
+                only the<lb break="yes"/>sodium line, but also six other lines.<lb break="yes"/>The
+                places of these were carefully measured,<lb break="yes"/>and it was found afterwards
+                that they were<lb break="yes"/>undoubtedly the chief lines of the iron spec<lb
+                    break="no"/>trum. Here was, indeed, another notable dis<lb break="no"/>covery.
+                The element iron, of such transcen<lb break="no"/>dent importance to us on the
+                earth, is now<lb break="yes"/>known to be a constituent of the cometary<lb
+                    break="yes"/>wanderers throughout space.</p>
+            <p><lb break="yes"/>Thus we have learned that the principal<lb break="yes"/>elements in
+                comets are among the common<lb break="yes"/>substances on the earth. Here, again,
+                    we<lb break="yes"/>find additional testimony to that fundamental<lb break="yes"
+                />unity in the composition of heavenly bodies,<lb break="yes"/>the perception of
+                which is one of the most<lb break="yes"/>notable results in modern science.</p>
+        </body>
+    </text>
+</TEI>
