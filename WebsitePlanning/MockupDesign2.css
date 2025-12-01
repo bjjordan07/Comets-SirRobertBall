@@ -1,0 +1,259 @@
+img[src="Image395.jpg"] {
+   width: 23.5pc;
+   height: 25.5pc;
+}
+img[src="Image396.jpg"] {
+    width: 24pc;
+    height: 35pc;
+}
+img[src="Image397.jpg"] {
+    width: 24pc;
+    height: 18pc;
+}
+img[src="Image398.jpg"] {
+    width: 20.5pc;
+    height: 24.5pc;
+}
+
+
+
+body {
+    background-color: cornflowerblue;
+    box-sizing: border-box;
+}
+#navigation {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: darkslateblue;
+    width: 9.55in;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 5px;
+    position: sticky;
+    top: 0;
+    border-radius: 5px;
+    z-index: 3;
+}
+#navigation a {
+    color: floralwhite;
+    font-weight: 300;
+}
+#navigation a:hover {
+background-color: slateblue;
+}
+#TEIheader {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 80px;
+    margin-top: 0px;
+}
+#TEIheader h2 {
+    text-align: center;
+    font-family: monospace;
+    font-size: 14pt;
+    font-weight: 100;
+    margin-bottom: 20px;
+}
+#TEIheader p {
+    text-indent: 40px;
+    text-align: justify;
+}
+#TEIheader a {
+    color: black;
+
+}
+#title {
+    width: 50%;
+    margin-left: 20%;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+img[src="PixilTitle2.png"] {
+    width: 110%;
+    height: 110%;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+.page {
+    background-color: floralwhite;
+    margin: auto;
+    width: 37.5pc;
+    height: 55.5pc;
+    margin-bottom: 2em;
+}
+.page .formeWork {
+    width: 37.5pc;
+    height: 5.62pc;
+    display: grid;
+    grid-template-columns: 5pc 27.5pc 5pc;
+    grid-template-rows: 3pc 1.62pc 1pc; 
+    grid-template-areas: 
+    'marginTop marginTop marginTop'
+    'pageNumberL runningHead pageNumberR'
+    'marginBottom marginBottom marginBottom';
+}
+.pageTitle {
+    grid-area: runningHead;
+    align-self: start;
+    justify-self: center;
+    
+}
+img[src="Title.png"] {
+   width: 27.5pc;
+   rotate: 2.5deg;
+   display: initial;
+}
+.runningHead {
+    grid-area: runningHead;
+    text-align: center;
+    font-style: italic;
+}
+.pageNumberL {
+  grid-area: pageNumberL;
+  text-align: right;
+
+}
+.pageNumberR {
+    grid-area: pageNumberR;
+    text-align: left;
+}
+.text {
+    font-size: 9pt;
+    line-height: 1em;
+    text-align-last: justify;
+    width: 37.5pc;
+    height: 49.88pc;
+    display: grid;
+    grid-template-columns: 3.25pc 15pc 1pc 15pc 3.25pc;
+    grid-template-rows: 45.2pc 4.68pc;
+    grid-template-areas: 
+    'marginLeft columnLeft marginMiddle columnRight marginRight'
+    '. footer footer footer .';
+}
+.vol {
+grid-area: footer;
+text-align-last: left;
+align-self: start;
+text-indent: 1pc;
+font-size: 7pt;
+font-weight: bold;
+}
+#cL399, #cR399 {
+    align-self: start;
+}
+.page .dropCap{
+    text-indent: 0;
+    margin-top: 0;
+    vertical-align: top;
+}
+.dropCap::first-letter {
+    font-size: 65pt;
+    float: left;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    padding: 5px;
+    color: floralwhite;
+    text-shadow: 
+                -1px -1px 0 black,
+                 1px -1px 0 black,
+                -1px  1px 0 black,
+                 1px  1px 0 black;
+   margin: 0 .1em 0 0;
+  line-height: 0.85; 
+  background-image: url("dropcap.png");
+  background-size: 70px 70px;
+  background-repeat: no-repeat;
+  background-position-x: 45%;
+  background-position-y: 55%;  
+}
+
+.page p {
+    display: inline-block;
+    width: 15pc;
+    text-align: justify;
+    text-indent: 1pc;
+    margin-top: .5em;
+    margin-bottom: 0em;
+    padding: 0;
+    hyphens: auto;
+
+}
+
+.lastLine {
+    display: block;
+    text-align-last: left;
+    text-indent: 0pc;
+}
+
+div[id="395"] .text {
+    display: grid;
+    grid-template-columns: 4.5pc 6.5pc 8.5pc 1pc 15pc 2pc;
+    grid-template-rows: 20pc 27.5pc 3pc;
+    grid-template-areas: 
+    'marginLeft columnLeft columnLeft marginMiddle columnRight marginRight'
+    'marginLeft imageLeft image image image marginRight'
+    'footer footer footer footer footer footer';
+}
+
+div[id="396"] .text {
+    display: grid;
+    grid-template-columns: 2pc 15pc 1pc 9pc 6pc 4.5pc;
+    grid-template-rows: 37pc 10pc 3pc;
+    grid-template-areas: 
+    'marginLeft image image image imageRight marginRight'
+    'marginLeft columnLeft marginMiddle columnRight columnRight marginRight'
+    'footer footer footer footer footer footer';  
+}
+
+div[id="397"] .text {
+    display: grid;
+    grid-template-columns: 4pc 15pc 1pc 9pc 6pc 2.5pc;
+    grid-template-rows: 12pc 21.5pc 14.5pc 3pc;
+    grid-template-areas: 
+    'marginLeft columnLeftTop marginMiddle columnRightTop columnRightTop marginRight'
+    'marginLeft image image image imageRight marginRight'
+    'marginLeft columnLeftBottom marginMiddle columnRightBottom columnRightBottom marginRight'
+    'footer footer footer footer footer footer'; 
+}
+
+div[id="398"] .text {
+    display: grid;
+    grid-template-columns: 2.5pc 15pc 1pc 5.5pc 9.5pc 4pc;
+    grid-template-rows: 26.5pc 21pc 3pc;
+    grid-template-areas:  
+    'marginLeft image image image imageRight marginRight'
+    'marginLeft columnLeft marginMiddle columnRight columnRight marginRight'
+    'footer footer footer footer footer footer';
+}
+.columnLeft {
+    grid-area: columnLeft;
+    align-self: end;
+    
+}
+.columnRight {
+    grid-area: columnRight;
+    align-self: end;
+}
+.imageLeft {
+    grid-area: imageLeft;
+}
+.imageRight {
+    grid-area: imageRight;
+}
+.image {
+    grid-area: image;
+}
+.columnLeftTop {
+    grid-area: columnLeftTop;
+}
+.columnRightTop {
+    grid-area: columnRightTop;
+}
+.columnLeftBottom {
+    grid-area: columnLeftBottom;
+}
+.columnRightBottom {
+    grid-area: columnRightBottom;
+}

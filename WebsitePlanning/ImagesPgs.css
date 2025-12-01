@@ -1,0 +1,113 @@
+* {
+    font-size: 6pt;
+    text-align-last: justify;
+}
+.page .formeWork {
+    width: 37.5pc;
+    height: 5.62pc;
+    display: grid;
+    grid-template-columns: 5pc 27.5pc 5pc;
+    grid-template-rows: 3pc 1.62pc 1pc; 
+    grid-template-areas: 
+    'marginTop marginTop marginTop'
+    'pageNumberL runningHead pageNumberR'
+    'marginBottom marginBottom marginBottom';
+}
+.runningHead {
+    grid-area: runningHead;
+    text-align: center;
+    font-style: italic;
+}
+.pageNumberL {
+  grid-area: pageNumberL;
+  text-align: right;
+}
+.pageNumberR {
+    grid-area: pageNumberR;
+    text-align: left;
+}
+
+img[src="Image395.jpg"] {
+   width: 23.5pc;
+   height: 25.5pc;
+}
+img[src="Image396.jpg"] {
+    width: 24pc;
+    height: 35pc;
+}
+img[src="Image397.jpg"] {
+    width: 24pc;
+    height: 18pc;
+}
+img[src="Image398.jpg"] {
+    width: 20.5pc;
+    height: 24.5pc;
+}
+
+div[id="395"] .text {
+    display: grid;
+    grid-template-columns: 4.5pc 6.5pc 8.5pc 1pc 15pc 2pc;
+    grid-template-rows: 20pc 27.5pc 3pc;
+    grid-template-areas: 
+    'marginLeft columnLeft columnLeft marginMiddle columnRight marginRight'
+    'marginLeft imageLeft image image image marginRight'
+    'footer footer footer footer footer footer';
+}
+
+div[id="396"] .text {
+    display: grid;
+    grid-template-columns: 2pc 15pc 1pc 9pc 6pc 4.5pc;
+    grid-template-rows: 37pc 10pc 3pc;
+    grid-template-areas: 
+    'marginLeft image image image imageRight marginRight'
+    'marginLeft columnLeft marginMiddle columnRight columnRight marginRight'
+    'footer footer footer footer footer footer';  
+}
+
+div[id="397"] .text {
+    display: grid;
+    grid-template-columns: 4pc 15pc 1pc 9pc 6pc 2.5pc;
+    grid-template-rows: 12pc 21.5pc 14.5pc 3pc;
+    grid-template-areas: 
+    'marginLeft columnLeftTop marginMiddle columnRightTop columnRightTop marginRight'
+    'marginLeft image image image imageRight marginRight'
+    'marginLeft columnLeftBottom marginMiddle columnRightBottom columnRightBottom marginRight'
+    'footer footer footer footer footer footer'; 
+}
+
+div[id="398"] .text {
+    display: grid;
+    grid-template-columns: 2.5pc 15pc 1pc 5.5pc 9.5pc 4pc;
+    grid-template-rows: 26.5pc 21pc 3pc;
+    grid-template-areas:  
+    'marginLeft image image image imageRight marginRight'
+    'marginLeft columnLeft marginMiddle columnRight columnRight marginRight'
+    'footer footer footer footer footer footer';
+}
+.columnLeft {
+    grid-area: columnLeft;    
+}
+.columnRight {
+    grid-area: columnRight;
+}
+.imageLeft {
+    grid-area: imageLeft;
+}
+.imageRight {
+    grid-area: imageRight;
+}
+.image {
+    grid-area: image;
+}
+.columnLeftTop {
+    grid-area: columnLeftTop;
+}
+.columnRightTop {
+    grid-area: columnRightTop;
+}
+.columnLeftBottom {
+    grid-area: columnLeftBottom;
+}
+.columnRightBottom {
+    grid-area: columnRightBottom;
+}

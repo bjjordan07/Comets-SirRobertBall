@@ -1,0 +1,108 @@
+body {
+    background-color: cornflowerblue;
+}
+
+img[src = "Image397.jpg"] {
+    width: 24pc;
+    height: 18pc;
+}
+.page {
+    background-color: floralwhite;
+    margin: auto;
+    width: 37.5pc;
+    height: 55.5pc;
+    margin-bottom: 2em;
+}
+.page .formeWork {
+    height: 4.5pc;
+    display: grid;
+    grid-template-columns: 5pc 27.5pc 5pc;
+    grid-template-rows: 3pc 1pc .5pc;
+    grid-template-areas: 
+    'marginTop marginTop marginTop'
+ 'pageNumberL runningHead pageNumberR'
+ 'marginBottom marginBottom marginBottom';
+}
+.runningHead {
+    grid-area: runningHead;
+    text-align: center;
+    font-style: italic;
+}
+.pageNumberL {
+    grid-area: pageNumberL;
+    text-align: right;
+
+}
+.pageNumberR {
+    grid-area: pageNumberR;
+    text-align: left;
+}
+
+
+div[id = "397"] .text {
+    box-sizing: border-box;
+    white-space: nowrap;
+    text-align-last: justify;
+    font-size: 8.9pt;
+    line-height: 9.5pt;
+    width: 37.5pc;
+    height: 51pc;
+    display: grid;
+    grid-template-columns: 3.25pc 15pc 1pc 9pc 6pc 3.25pc;
+    grid-template-rows: 12pc 21.5pc 14.5pc 3pc;
+    grid-template-areas: 
+    'marginLeft columnLeftTop marginMiddleTop columnRightTop columnRightTop marginRight'
+    'marginLeft image image image imageRight marginRight'
+    'marginLeft columnLeftBottom marginMiddleBottom columnRightBottom columnRightBottom marginRight'
+    'footer footer footer footer footer footer';
+    
+}
+.columnLeftTop {
+    border-style: dotted;
+    border-width: thin;
+    grid-area: columnLeftTop;
+}
+.image {
+    border-style: dotted;
+    border-width: thin;
+    grid-area: image;
+}
+.columnLeftBottom {
+    border-style: dotted;
+    border-width: thin;
+    grid-area: columnLeftBottom;
+}
+.columnRightTop {
+    border-style: dotted;
+    border-width: thin;
+    grid-area: columnRightTop;
+}
+.imageRight {
+    border-style: dotted;
+    border-width: thin;
+    grid-area: imageRight;
+}
+.columnRightBottom {
+    border-style: dotted;
+    border-width: thin;
+    grid-area: columnRightBottom;
+}
+
+
+
+
+.page p {
+    text-align: justify;
+    box-sizing: border-box;
+    text-align-last: justify;
+    text-indent: 1pc;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    padding: 0;
+}
+.lastLine {
+    display: block;
+    text-align-last: left;
+    text-indent: 0pc;
+    box-sizing: border-box;
+}
